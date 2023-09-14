@@ -2,9 +2,7 @@
 
 Weather-React-App-Component-Practice
 
-## Demo:
-
-https://bahaashk.github.io/weather-react-app/
+## Demo :
 
 ## Features:
 
